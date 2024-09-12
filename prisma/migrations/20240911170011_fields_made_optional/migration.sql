@@ -1,0 +1,3 @@
+-- AlterTable
+ALTER TABLE "Users" ALTER COLUMN "inst_id" DROP NOT NULL,
+ALTER COLUMN "roll_no" DROP NOT NULL;
